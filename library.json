@@ -1,10 +1,7 @@
 {
   "name": "CPreferences",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "C wrapper for Arduino Preferences",
   "frameworks": "Arduino",
-  "dependencies": {
-    "vshymanskyy/Preferences": "2.2.2"
-  },
   "platforms": "*"
 }

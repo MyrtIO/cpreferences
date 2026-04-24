@@ -53,3 +53,7 @@ void config_save(void) {
 	cpreferences_destroy(prefs);
 }
 ```
+
+## Pico support
+
+For RPi Pico support add `vshymanskyy/Preferences` dependency to project.
